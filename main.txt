@@ -1,0 +1,3 @@
+https://public.tableau.com/profile/patricia.villa.ceron#!/vizhome/LibroLab-introaBIyTableau/Hoja3
+
+Aparecen por pestañas todas las hojas de las gráficas solicitadas en el Lab
