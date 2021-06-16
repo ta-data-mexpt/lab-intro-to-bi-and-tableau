@@ -11,8 +11,8 @@ If you get stuck on any of the tasks in this lab, you can reference the excellen
 ## Getting Started
 
 To complete this lab, follow each of the steps below.
+1. Open the [data set](ju) in a browser.
 
-1. Open the [data set](https://docs.google.com/spreadsheets/d/1pQ2VFsuuwLqBstYYTY3fcZY32WLigw3Pzxnikkce6IA/edit?usp=sharing) in a browser.
 2. Add the data set to your Google Drive.
 3. Launch the Tableau Public application.
 4. Import the data set from Google Sheets into Tableau.
