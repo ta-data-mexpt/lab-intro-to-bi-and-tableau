@@ -1,1 +1,2 @@
-https://public.tableau.com/app/profile/santiagonh/viz/LabIntroductiontoBIandTableau_16422040888150/AverageWarehouseSalesbyYearMonthrowsandItemTypecolumns?publish=yes
+https://public.tableau.com/app/profile/santiagonh/viz/LabIntroductiontoBIandTableau_16422040888150/Dashboard1?publish=yes
+
